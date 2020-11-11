@@ -14,7 +14,7 @@ switch ($_GET['sw']) {
 
             if($tipo=='Peticion'){
                 $dia = 7;
-            }elseif($tipo=='Peticion'){
+            }elseif($tipo=='Queja'){
                 $dia = 3;
             }else{
                 $dia = 2;
